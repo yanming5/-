@@ -6,3 +6,8 @@
 - 新的功能
  	+ `git log` 查看提交修改日志
  	+ `git log --oneline` 查看简洁的日志 
+## 回退到指定的版本 （代码）
+- `git reset --hard Head~0`
+	+ 表示回退到上一次代码提交时的状态
+- `git reset --hard Head~1`
+	+ 表示回退到上上次代码 Head~2 一次类推n+
