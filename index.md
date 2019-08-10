@@ -18,3 +18,8 @@
 - `git branch -d dev`删除dev分支环境
 - `git checkout dev` 是切换到dev里面去
 - `git merge dev` 代码合并到master里面
+## GitHub 
+- https://github.com
+- 一个提供存储代码的网站 通过git上传代码的功
+- `git push [地址] master`
+	+ 会把当前分支的内容上传到远程的master分支上
