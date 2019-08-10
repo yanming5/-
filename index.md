@@ -13,3 +13,5 @@
 	+ 表示回退到上上次代码 Head~2 一次类推n+
 - `git reflog`
 	+ 可以看到每一次切换版本的记录：可以看到所有提交的版本号
+- `git branch dev` 创建dev
+- `git branch` 查看创建的有哪些
