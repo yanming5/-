@@ -15,3 +15,5 @@
 	+ 可以看到每一次切换版本的记录：可以看到所有提交的版本号
 - `git branch dev` 创建dev
 - `git branch` 查看创建的有哪些
+- `git checkout dev` 是切换到dev里面去
+- `git merge dev` 代码合并到master里面
